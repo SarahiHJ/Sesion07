@@ -1,0 +1,3 @@
+#Código de R
+irisdb <- iris
+head(iris)
